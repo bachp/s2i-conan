@@ -1,0 +1,6 @@
+#!/bin/bash
+
+set -e
+
+#TODO: How to determine what to run?
+bin/server
